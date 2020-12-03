@@ -1,8 +1,17 @@
-# Música maestro
+*Música maestro*
 
 **Exámen GitHub**
 
 History:
+
+Alumno@PC15524 MINGW64 ~/Desktop/repoNotas (main)
+$ git config --global user.name DaniellTec
+
+Alumno@PC15524 MINGW64 ~/Desktop/repoNotas (main)
+$ git config --global user.email danieltecpuhawan@gmail.com
+
+Alumno@PC15524 MINGW64 ~/Desktop/repoNotas (main)
+$ git config --global user.password
 
 Alumno@PC15524 MINGW64 ~/Desktop
 $ git clone https://github.com/DaniellTec/repoNotas.git
